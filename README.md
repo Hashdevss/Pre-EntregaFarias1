@@ -1,6 +1,6 @@
 # Calculadora de impuestos.
 Es una herramienta interactiva para calcular el costo total de compras en el extranjero, teniendo en cuenta diversos impuestos.
-Permite ingresar el monto de una compra y calcula automáticamente el total a pagar, incluyendo impuestos como IVA, Impuesto Pais, Impuesto a las Ganancias y  impuestos Provinciales.
+Permite ingresar el monto de una compra y calcula automáticamente el total a pagar, incluyendo impuestos como IVA, Impuesto Pais, Impuesto a las Ganancias e impuestos Provinciales.
 
 ## Características
 
