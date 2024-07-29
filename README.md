@@ -12,9 +12,9 @@ Permite ingresar el monto de una compra y calcula automáticamente el total a pa
 
 ## Ejemplo:
 
-Ingrese el monto de la compra en el extranjero: 1000
-IVA (21%): $210.00
-PAIS (8%): $80.00
-GANANCIAS (30%): $300.00
-Provincia (2%): $20.00
-Monto total a pagar con el impuesto del 62%: $1620.00
+- Ingrese el monto de la compra en el extranjero: 1000
+- IVA (21%): $210.00
+- PAIS (8%): $80.00
+- GANANCIAS (30%): $300.00
+- Provincia (2%): $20.00
+- Monto total a pagar con el impuesto del 62%: $1620.00
