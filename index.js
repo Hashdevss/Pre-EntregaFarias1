@@ -12,7 +12,7 @@ function datosDelUsuario() {
     console.log(`PAIS (8%): $${(montoOriginal * 0.08).toFixed(2)}`);
     console.log(`GANANCIAS (30%): $${(montoOriginal * 0.30).toFixed(2)}`);
     console.log(`Provincia (2%): $${(montoOriginal * 0.02).toFixed(2)}`);
-    console.log(`Monto total a pagar con el impuesto del 62%: $${montoConImpuesto.toFixed(2)}`);
+    console.log(`Monto total a pagar con el impuesto del 61%: $${montoConImpuesto.toFixed(2)}`);
 
     let calcularDeNuevo = prompt('¿Desea calcular nuevamente? Escriba "Sí" o "No"').toLowerCase();
     realizarCalculoNuevamente(calcularDeNuevo);
